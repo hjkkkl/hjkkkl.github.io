@@ -25,6 +25,7 @@
 ![화면 캡처 2022-10-11 181723](https://user-images.githubusercontent.com/111541925/195113341-0cf62458-6886-45d9-bc5d-da50b83e5692.jpg)
 
 
-> ![화면 캡처 2022-10-11 184510](https://user-images.githubusercontent.com/111541925/195112606-202a4715-2d7f-4417-9ef7-aa2a0674652b.jpg)
-> 
-> ![3](https://user-images.githubusercontent.com/111541925/194084738-73737dc6-eb4c-4cba-9e31-594049c77541.jpg)
+#3주차 실습
+![화면 캡처 2022-10-11 184510](https://user-images.githubusercontent.com/111541925/195112606-202a4715-2d7f-4417-9ef7-aa2a0674652b.jpg) 
+![3](https://user-images.githubusercontent.com/111541925/194084738-73737dc6-eb4c-4cba-9e31-594049c77541.jpg)
+
